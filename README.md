@@ -7,5 +7,5 @@ En el Notebook se encuentra el tratamiento de datos como el mapeo de cada una de
 
 El documento pdf contiene el análsis e investigación realizada para llevar a cabo la solución del proyecto.
 
-![](https://github.com/NaomiPadillaM/RetoCoppel/blob/main/CRVP_300_8.html)
+![](main/CRVP_300_8.html)
 
