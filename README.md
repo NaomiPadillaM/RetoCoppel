@@ -9,4 +9,4 @@ El documento pdf contiene el análsis e investigación realizada para llevar a c
 
 <iframe src="https://github.com/NaomiPadillaM/RetoCoppel/blob/main/images/CRVP_300_8.html" height="500" width="500"></iframe>
 
-[Puedes explorar este mapa en el link](/images/CRVP_300_8.html)
+[Puedes explorar el mapa en el link](/images/CRVP_300_8.html)
