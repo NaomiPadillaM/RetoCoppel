@@ -7,4 +7,6 @@ En el Notebook se encuentra el tratamiento de datos como el mapeo de cada una de
 
 El documento pdf contiene el análsis e investigación realizada para llevar a cabo la solución del proyecto.
 
+<iframe src="/images/CRVP_300_8.html" height="500" width="500"></iframe>
+
 [I'm an inline-style link](/images/CRVP_300_8.html)
