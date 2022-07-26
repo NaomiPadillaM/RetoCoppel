@@ -9,4 +9,4 @@ El documento pdf contiene el análsis e investigación realizada para llevar a c
 
 <iframe src="/images/CRVP_300_8.html" height="500" width="500"></iframe>
 
-[I'm an inline-style link](/images/CRVP_300_8.html)
+[Consultar en el link](/images/CRVP_300_8.html)
