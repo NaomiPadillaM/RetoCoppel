@@ -9,4 +9,4 @@ El documento pdf contiene el análsis e investigación realizada para llevar a c
 
 <iframe src="https://ma2001b-202-4-mapeop2.netlify.app/" height="500" width="500"></iframe>
 
-[Consultar en el link](/images/CRVP_300_8.html)
+[Puedes explorar este mapa en el link](/images/CRVP_300_8.html)
