@@ -7,5 +7,4 @@ En el Notebook se encuentra el tratamiento de datos como el mapeo de cada una de
 
 El documento pdf contiene el análsis e investigación realizada para llevar a cabo la solución del proyecto.
 
-![](main/CRVP_300_8.html)
-
+<iframe src="Ithaca-map.html" height="500" width="500"></iframe>
